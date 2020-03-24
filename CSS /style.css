@@ -187,3 +187,9 @@
         font-weight: 600
     }
 }
+
+.player {
+    position: center;
+    top: 100px;
+    left: 150px;
+}
